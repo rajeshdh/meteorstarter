@@ -1,4 +1,4 @@
-# Socialize starter
+# Meteor Web starter
 
 A starter for [Meteor](https://www.meteor.com/) apps that takes care of basic
 user functionality.
