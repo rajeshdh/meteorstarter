@@ -26,7 +26,7 @@
     "babel-plugin-react-require": "^2.1.0",
     "babel-polyfill": "^6.13.0",
     "babel-preset-es2015": "^6.14.0",
-    "babel-preset-meteor": "^6.12.0",
+    "babel-preset-meteor": "^7.7.5",
     "babel-preset-react": "^6.11.1",
     "babel-preset-stage-2": "^6.13.0",
     "babel-root-slash-import": "^1.1.0",
