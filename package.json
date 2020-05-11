@@ -18,7 +18,7 @@
     "react-dom": "^15.3.1",
     "react-komposer": "^1.13.1",
     "react-mounter": "^1.2.0",
-    "react-router": "^2.7.0",
+    "react-router": "^5.2.0",
     "sanitize-html": "^1.13.0"
   },
   "devDependencies": {
